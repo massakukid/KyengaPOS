@@ -1,0 +1,611 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KyengaMeatPalacePOS
+</name>
+</assembly>
+<members>
+<member name="P:KyengaMeatPalacePOS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_delete_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_delete_48__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_double_tick_24__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_menu_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_menu_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_menu_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_menu_64__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_menu_64__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_microsoft_excel_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_notification_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_person_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_print_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_save_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.icons8_shutdown_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KyengaMeatPalacePOS.My.Resources.Resources.Untitled_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.AppEndDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ButcheryMenuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ButcheryMenuCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ButcherySalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.DrawerExpenditureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.EndDayDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.InventoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.InventoryProductNameDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.LogInDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.MenuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.MenuCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.PrinterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ProductNameDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ReceiptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.RisitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SecuritySettingsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterFloatAmtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.CashSalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ClosedDrawersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.MpesaSalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ProductName_SalesDuplicatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ProductName_SalesNonDuplicatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SalesReport_DuplicatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SalesReport_NonDuplicatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.StocklvlsAlertDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.UnclosedDrawersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterSales_DuplicatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterSales_NonDuplicatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.AppEndRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ButcheryMenuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ButcheryMenuCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ButcherySalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.DrawerExpenditureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.EndDayRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.InventoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.InventoryProductNameRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.LogInRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.MenuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.MenuCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.PrinterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ProductNameRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ReceiptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.RisitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SecuritySettingsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterFloatAmtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.CashSalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ClosedDrawersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.MpesaSalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ProductName_SalesDuplicatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ProductName_SalesNonDuplicatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SalesReport_DuplicatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SalesReport_NonDuplicatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.StocklvlsAlertRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.UnclosedDrawersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterSales_DuplicatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterSales_NonDuplicatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.AppEndRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ButcheryMenuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ButcheryMenuCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ButcherySalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.DrawerExpenditureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.EndDayRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.InventoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.InventoryProductNameRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.LogInRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.MenuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.MenuCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.PrinterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ProductNameRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ReceiptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.RisitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SecuritySettingsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterFloatAmtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.CashSalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ClosedDrawersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.MpesaSalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ProductName_SalesDuplicatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.ProductName_SalesNonDuplicatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SalesReport_DuplicatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.SalesReport_NonDuplicatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.StocklvlsAlertRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.UnclosedDrawersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterSales_DuplicatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet.WaiterSales_NonDuplicatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.AppEndTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.ButcheryMenuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.ButcheryMenuCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.ButcherySalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.DrawerExpenditureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.EndDayTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.InventoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.InventoryProductNameTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.LogInTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.MenuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.MenuCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.PrinterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.ProductNameTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.ReceiptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.RisitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.SecuritySettingsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.WaiterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.WaiterFloatAmtTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.CashSalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.ClosedDrawersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.MpesaSalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.ProductName_SalesDuplicatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.ProductName_SalesNonDuplicatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.SalesReport_DuplicatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.SalesReport_NonDuplicatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.StocklvlsAlertTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.UnclosedDrawersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.WaiterSales_DuplicatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.WaiterSales_NonDuplicatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(KyengaMeatPalacePOS.TopShelfDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(KyengaMeatPalacePOS.TopShelfDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(KyengaMeatPalacePOS.TopShelfDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.TableAdapterManager.UpdateAll(KyengaMeatPalacePOS.TopShelfDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.TopShelfDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:KyengaMeatPalacePOS.DrawHelpers">
+	<summary>
+ Elegant GDI Theme
+ Creator: Xertz (HF)
+ Version: 1.0
+ Control Count: 17
+ Date Created: 25/12/2013
+ UID: 1602992
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
